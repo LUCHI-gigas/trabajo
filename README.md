@@ -1,2 +1,2 @@
 Trabajo grupal
-Hola profe, le dejamos el trabajo aquí
+Hola profe, le dejamos el trabajo.
