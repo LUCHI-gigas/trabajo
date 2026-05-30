@@ -1,2 +1,4 @@
-Trabajo grupal
-Hola profe, le dejamos el trabajo.
+# TRABAJO GRUPAL
+# hola profe, le dejamos el trabajo.
+# Integrante Romero
+# Integrante Paganessi
